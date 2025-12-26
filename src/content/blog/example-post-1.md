@@ -1,6 +1,6 @@
 ---
 title: 'Blog 1'
-description: 'Writeup HTB'
+description: 'Writeup HTB & THM'
 pubDate: 'Aug 12 2025'
 heroImage: '../../assets/images/example-blog-hero1.jpg'
 category: 'Showcase'
