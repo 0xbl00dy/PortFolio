@@ -1,0 +1,25 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+import GlowLineSeparator from '@/components/ui/separator/GlowLineSeparator.astro';
+const pageTitle = 'About Me';
+const pageDescription = 'Learn more about my background and approach to software engineering.';
+---
+
+<Layout title={pageTitle} description={pageDescription} pubDate={new Date()} showHeader={false}>
+  <p>
+  Hey! I'm a Computer Science graduate specializing in Cybersecurity and Digital Forensics, passionate about securing real-world systems and understanding how attackers think.
+</p>
+<p>
+  I work across offensive and defensive security, with hands-on experience in vulnerability assessments, SIEM-based monitoring, enterprise infrastructure, and cloud environments. I care deeply about practical security, clear documentation, and building defenses that actually work.
+</p>
+<p>
+  Recent highlights include discovering critical vulnerabilities during security assessments, contributing to enterprise security evaluations, and co-authoring research on LLM prompt-injection attacks focused on adversarial behavior in modern AI systems.
+</p>
+<p>
+  Outside of research and assessments, I actively practice through CTFs and lab environments, exploring Linux, Windows, networking, and exploitation techniques. Always learning—and always excited to collaborate on meaningful security problems.
+</p>
+
+
+  <GlowLineSeparator />
+
+</Layout>
