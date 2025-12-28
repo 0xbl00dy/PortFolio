@@ -18,7 +18,7 @@ export const projects = [
  	 	techStack: "Python • PySide6 • Qt • Multi-tool Integration",
  	 	description: "Unified GUI platform integrating diverse security assessment tools for comprehensive network reconnaissance and web application testing. Provides centralized execution, real-time monitoring, and consolidated result analysis for multiple security utilities through an intuitive interface.",
   		ctaText: "View Repo →",
- 	 	ctaLink: "#",
+ 	 	ctaLink: "https://github.com/0xbl00dy/FuzzPanel",
  	 	icon: FuzzPanel
 	},
 	{
