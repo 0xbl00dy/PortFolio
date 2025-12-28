@@ -9,7 +9,7 @@ export const projects = [
 		title: "LLM Prompt Injection Security",
 		techStack: "Python • Flask • PyTorch • Neural Network • Random Forest",
 		description: "Security research project analyzing prompt-injection vulnerabilities in large language models. Conducted offensive testing on multiple LLMs and built ML-based detection and sanitization mechanisms. Research paper currently under editorial review.",
-		ctaText: "View Repo →",
+		ctaText: "In Progress",
 		ctaLink: "https://github.com/0xbl00dy/INJEXHIELD",
 		icon: InjexShield
 	},
