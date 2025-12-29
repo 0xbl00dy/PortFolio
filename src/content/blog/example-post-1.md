@@ -1,5 +1,5 @@
 ---
-title: 'Blog 1'
+title: 'Blog - 2'
 description: 'Writeup HTB & THM'
 pubDate: 'Aug 12 2025'
 heroImage: '../../assets/images/example-blog-hero1.jpg'
