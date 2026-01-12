@@ -25,7 +25,7 @@ export const projects = [
 		title: "Smart Parking Violation System",
 		techStack: "Flutter • Dart • Java • NoSQL • FireBase",
 		description: "End-to-end mobile application addressing illegal parking conflicts using secure real-time reporting. Implemented complaint workflows, user reporting, and backend logic with focus on data integrity and secure communication.",
-		ctaText: "View Repo →",
+		ctaText: "Closed Source",
 		ctaLink: "#",
 		icon: TagTalk
 	},
