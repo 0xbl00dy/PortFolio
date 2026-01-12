@@ -53,7 +53,7 @@ export const work = [
     company: "HackTheBox, TryHackMe & CTF's",
     region: "Global",
     description:
-      "Built strong red and blue teaming expertise through hands-on labs and CTFs, solving 200+ machines. Achieved global rankings in Hack The Box and PicoCTF while strengthening system and network security skills.",
+      "Built strong red and blue teaming expertise through hands-on labs and CTFs, solving 300+ machines. Achieved global rankings in Hack The Box and PicoCTF while strengthening system and network security skills.",
     technologies: [
       "Linux Privilege Escalation",
       "Windows Privilege Escalation",
