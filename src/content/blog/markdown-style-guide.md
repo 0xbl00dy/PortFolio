@@ -1,8 +1,7 @@
 ---
-title: 'Soon after the cooldown period, Stay tuned!'
+title: 'Coming back after the cooldown period — stay tuned!'
 heroImage: '../../assets/images/example-blog-hero8.jpg'
 tags: ['Tag_1']
 ---
 
-
-Soon after the cooldown period, Stay tuned!
+This content will be available again after the cooldown period. Stay tuned!
